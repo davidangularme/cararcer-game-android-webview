@@ -1,0 +1,31 @@
+
+/****************************************/
+/* common styles used for v1 through v4 */
+/****************************************/
+
+body          {  }
+#stats        { }
+#controls     {  }
+#controls th  { }
+#instructions { }
+#racer        { position: relative; z-index: 0; width: 100%; height: 100%; margin-left: 0em; border: 0px solid black; }
+#canvas       { position: relative; z-index: 0; width: 100%; height: 100%; z-index: 0; background-color: #72D7EE; }
+#mute         { }
+#mute.on      { }
+
+ 
+  
+
+/**************************************************/
+/* rudimentary heads up display (only used in v4) */
+/**************************************************/
+
+#hud                   {  }
+#hud .hud              { }
+#hud #speed            {  }
+#hud #current_lap_time {   }
+#hud #last_lap_time    { }
+#hud #fast_lap_time    { }
+#hud .value            {  }
+#hud .fastest          {  }
+

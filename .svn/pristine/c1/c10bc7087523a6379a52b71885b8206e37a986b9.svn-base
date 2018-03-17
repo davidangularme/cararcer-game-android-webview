@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="wrap_content" android:padding="10px">
+	
+    
+
+	<CheckBox android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/enable_content_rewriting" android:text="Enable smart links"/>
+		
+	
+
+	<Button android:id="@+id/settings_save" android:layout_width="131px"
+		android:layout_height="wrap_content" android:text="Save settings" />
+</LinearLayout>
